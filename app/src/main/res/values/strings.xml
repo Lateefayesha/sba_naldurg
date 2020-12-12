@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name"> Naldurg Garbage Collection Van </string>
+    <string name="display_app_name" translatable="false">Naldurg Garbage Collection Van</string>
+    <string name="app_id_title">Naldurg Nagar Parishad</string>
+</resources>
